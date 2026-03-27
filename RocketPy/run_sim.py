@@ -16,7 +16,7 @@ sim = create_simulation(
     # airbrake_cd_scale_mach2=1.1,
     
     # Motor performance
-    thrust_scale=1.1,
+    thrust_scale=1,
     
     # Launch site conditions (offsets from truth)
     launch_altitude_offset_m=0,  # Offset from truth (default ~630m MSL)
