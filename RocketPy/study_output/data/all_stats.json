@@ -1,0 +1,100 @@
+{
+  "baseline": {
+    "with_airbrakes_ft": 30002,
+    "without_airbrakes_ft": 32152,
+    "delta_ft": 2150,
+    "error_ft": 2
+  },
+  "cd_5pct": {
+    "mean": 30034,
+    "std": 158,
+    "s500": 97.6,
+    "s1000": 99.2,
+    "error_mean": 34,
+    "error_std": 158
+  },
+  "cd_10pct": {
+    "mean": 30204,
+    "std": 786,
+    "s500": 79.2,
+    "s1000": 86.7,
+    "error_mean": 204,
+    "error_std": 786
+  },
+  "cd_15pct": {
+    "mean": 30404,
+    "std": 1645,
+    "s500": 61.3,
+    "s1000": 70.2,
+    "error_mean": 404,
+    "error_std": 1645
+  },
+  "thrust_2pct": {
+    "mean": 30041,
+    "std": 176,
+    "s500": 96.3,
+    "s1000": 99.0,
+    "error_mean": 41,
+    "error_std": 176
+  },
+  "thrust_3pct": {
+    "mean": 30108,
+    "std": 470,
+    "s500": 85.8,
+    "s1000": 93.0,
+    "error_mean": 108,
+    "error_std": 470
+  },
+  "thrust_5pct": {
+    "mean": 30216,
+    "std": 1229,
+    "s500": 64.7,
+    "s1000": 78.0,
+    "error_mean": 216,
+    "error_std": 1229
+  },
+  "wind_1ms": {
+    "mean": 30004,
+    "std": 9,
+    "s500": 100.0,
+    "s1000": 100.0,
+    "error_mean": 4,
+    "error_std": 9
+  },
+  "wind_3ms": {
+    "mean": 30008,
+    "std": 23,
+    "s500": 100.0,
+    "s1000": 100.0,
+    "error_mean": 8,
+    "error_std": 23
+  },
+  "wind_5ms": {
+    "mean": 30020,
+    "std": 67,
+    "s500": 99.6,
+    "s1000": 100.0,
+    "error_mean": 20,
+    "error_std": 67
+  },
+  "combined": {
+    "mean": 30372,
+    "std": 1387,
+    "s500": 62.9,
+    "s1000": 75.0,
+    "error_mean": 372,
+    "error_std": 1387
+  },
+  "worst_case": {
+    "mean": 30824.953536035682,
+    "std": 2826.370440458595,
+    "s500": 36.4,
+    "s1000": 50.5,
+    "error_mean": 824.952576035681,
+    "error_std": 2826.370440458595,
+    "p5": 26624.48785490314,
+    "p95": 36224.277395076904,
+    "min": 22194.581966625443,
+    "max": 43709.54557753313
+  }
+}
